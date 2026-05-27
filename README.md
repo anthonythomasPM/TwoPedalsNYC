@@ -44,4 +44,10 @@ Major projects affecting NYC cyclists are reported by a half-dozen different aut
 
 ## Screenshots
 
+<img width="1498" height="790" alt="2p_01" src="https://github.com/user-attachments/assets/cbdbb4d8-bc61-4073-9341-11d7448466be" />
+
+<img width="1023" height="811" alt="2p_02" src="https://github.com/user-attachments/assets/4b8b31fb-da1c-4e3f-ba58-52d639df34ba" />
+
+<img width="1025" height="705" alt="2p_03" src="https://github.com/user-attachments/assets/c0f9f588-6596-4a0b-98d0-19c73bfc63de" />
+
 *Built and maintained by Anthony.*
