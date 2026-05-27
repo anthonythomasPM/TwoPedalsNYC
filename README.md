@@ -2,6 +2,8 @@
 
 **twopedals.nyc** | A bike lane disruption tracker for New York City cyclists
 
+Live: https://twopedals.nyc
+
 ---
 
 ## The Problem
@@ -40,4 +42,6 @@ Major projects affecting NYC cyclists are reported by a half-dozen different aut
 
 ---
 
-*Built and maintained by Anthony. Feedback welcome via [twopedals.nyc](https://twopedals.nyc).*
+## Screenshots
+
+*Built and maintained by Anthony.*
